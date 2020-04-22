@@ -1,0 +1,8 @@
+Khi bấm nút black thì onpause, onStop, onDestroy sẽ chạy
+khi mở lại thì onCreart, onStart, onResume sẽ chạy
+
+câu 5: khi bấm nút home sẽ hiện onpause,onStop
+khi mở lại thì onCreate, onResume, onDestroy sẽ chạy
+
+caua6: khi lưu thì lưu thông tin của ứng dụng thì lưu ở onPause
+hiển thị thông tin của ứng dụng thì hiển thị ở onResume
